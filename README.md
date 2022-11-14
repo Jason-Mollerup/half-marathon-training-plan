@@ -4,7 +4,7 @@ Link - https://half-marathon-training-plan.netlify.app/
 
 Meant to be used on mobile. Schedule is a bit wide in the browser ;)
 
-<img width="358" alt="Screen Shot 2022-11-14 at 8 48 05 AM" src="https://user-images.githubusercontent.com/48895009/201703924-db28e149-5d8e-4586-bdc8-963ef66f74d8.png">
+<img width="358" alt="Screen Shot 2022-11-14 at 8 48 05 AM" src="https://user-images.githubusercontent.com/48895009/201760284-e1a43e6c-0904-4737-beef-69e1dc7820c3.png">
 
 ## Set some goals bro
 
